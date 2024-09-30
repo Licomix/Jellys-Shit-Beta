@@ -1,0 +1,39 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-09-23 23:59:24 +0200"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/one_with_the_forest": {
+    "criteria": {
+      "plains": "2024-09-23 23:59:25 +0200"
+    },
+    "done": false
+  },
+  "blazeandcave:challenges/explorer_of_worlds": {
+    "criteria": {
+      "plains": "2024-09-23 23:59:25 +0200"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/root": {
+    "criteria": {
+      "location": "2024-09-23 23:59:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2024-09-23 23:59:25 +0200"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/advancement_legend": {
+    "criteria": {
+      "bacap_root": "2024-09-23 23:59:26 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 3955
+}
