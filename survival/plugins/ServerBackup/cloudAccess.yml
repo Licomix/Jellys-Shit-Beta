@@ -1,0 +1,8 @@
+# Dropbox - Watch this video for explanation: https://youtu.be/k-0aIohxRUA
+
+Cloud:
+  Dropbox:
+    AppKey: appKey
+    AppSecret: appSecret
+    ActivationLink: https://www.dropbox.com/oauth2/authorize?client_id=appKey&response_type=code&token_access_type=offline
+    AccessToken: accessToken

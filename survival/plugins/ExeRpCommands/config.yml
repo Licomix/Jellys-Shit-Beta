@@ -1,0 +1,8 @@
+messages:
+  me: "<player> * {message}"
+  do: "<player> сделал {message}"
+  try:
+    success: "<player> попробовал {message} и получилось!"
+    failure: "<player> попробовал {message} но провалился."
+  roll: "<player> rolled a {roll}"
+  todo: "[TODO] <player>: {message}"

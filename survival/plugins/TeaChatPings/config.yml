@@ -1,0 +1,22 @@
+##############################################
+#  TeaChatPings v0.1.2 // by tea_with_sugar  #
+##############################################
+
+Prefix: "&aTeaChatPings &8»"
+
+Messages:
+  ActionBarText: "&fYou were pinged by a player &e%player%"
+  ChatText: "%prefix% &fYou were pinged by a player &e%player%"
+  TitleText: "&fYou pinged by a player:"
+  SubtitleText: "&e%player%"
+  AllPingDisabled: "%prefix% &e@all &fping disabled"
+  TargetPingDisabled: "%prefix% &fNickname pings disabled"
+  PingsDisabled: "%prefix% &fAll pings disabled"
+
+Settings:
+  EnableAllPings: false
+  EnableTargetPings: true
+  EnablePings: true
+  EnableActionBarInput: true
+  EnableChatInput: true
+  EnableTitleInput: false

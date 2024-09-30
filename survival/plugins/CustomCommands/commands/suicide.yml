@@ -1,0 +1,29 @@
+# ----------------------------------------------------------------------------------------------------
+# Configuration file for CustomCommands
+# More information can be found in the documentation
+# ----------------------------------------------------------------------------------------------------
+
+# Aliases for the command
+aliases: [suicide]
+
+# Patterns for the command
+patterns:
+
+  - pattern: ''  # here, we don't need arguments for the command, so we set only one empty pattern
+    description: suicide
+    permission: jelly.permission.suicide
+    worlds:
+      whitelist: []
+      blacklist: []
+    cooldown: 15 SECOND
+    actions:
+      - type: EXECUTE_COMMANDS
+        commands: |
+          kill {player}
+        as_player: false  # false to perform the command from console
+      - type: NOTIFY
+        notify:
+          message: '&cВы покончили с собой.'
+          sound: ENTITY_PLAYER_DEATH
+          actionbar: '&7Спасибо за использование нашими погребальными услугами))'
+          actionbar_duration: 10 SECOND

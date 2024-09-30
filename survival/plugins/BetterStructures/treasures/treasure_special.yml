@@ -1,0 +1,5333 @@
+isEnabled: true
+mean: 4.0
+standardDeviation: 3.0
+items: {}
+procedurallyGeneratedItemSettings:
+  golden_sword:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    smite:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    knockback:
+      minLevel: 1
+      maxLevel: 2
+      chance: 0.2
+    scavenger:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    fire_aspect:
+      minLevel: 1
+      maxLevel: 2
+      chance: 0.2
+    curse_of_death:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    venom:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    vampire:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    sharpness:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    ice_aspect:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    bane_of_arthropods:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    blindness:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    nimble:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    looting:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    sweeping_edge:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    double_strike:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    temper:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    rage:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    decapitator:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    exp_hunter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+  leather_boots:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    thorns:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    bunny_hop:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    fire_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    feather_falling:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    elemental_protection:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    projectile_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    rebound:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    frost_walker:
+      minLevel: 1
+      maxLevel: 2
+      chance: 0.2
+    flame_walker:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soul_speed:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    sonic:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    binding_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    depth_strider:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    fire_shield:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    blast_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+  chainmail_helmet:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    thorns:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    fire_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    elemental_protection:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    respiration:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    projectile_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    binding_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    aqua_affinity:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    saturation:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    aquaman:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fire_shield:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    blast_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+  netherite_helmet:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    thorns:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    fire_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    elemental_protection:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    respiration:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    projectile_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    binding_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    aqua_affinity:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    saturation:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    aquaman:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fire_shield:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    blast_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+  crossbow:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    piercing:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    quick_charge:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    multishot:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    ender_bow:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    vampiric_arrows:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    poisoned_arrows:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    hover:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    sniper:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    dragonfire_arrows:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    electrified_arrows:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+  iron_chestplate:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    regrowth:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    thorns:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    fire_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    elemental_protection:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    projectile_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    binding_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fire_shield:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    ice_shield:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    hardened:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    blast_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+  diamond_shovel:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    efficiency:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    replanter:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    lucky_miner:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    silk_touch:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    telekinesis:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    haste:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    smelter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    veinminer:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    tunnel:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+  wooden_axe:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    smite:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    telekinesis:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    scavenger:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    curse_of_death:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    venom:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    vampire:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    sharpness:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    veinminer:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    ice_aspect:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    bane_of_arthropods:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    efficiency:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    fortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    blindness:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    replanter:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    nimble:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    lucky_miner:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    silk_touch:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    haste:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    smelter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    double_strike:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    temper:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    rage:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    decapitator:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    tunnel:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    exp_hunter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+  iron_axe:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    smite:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    telekinesis:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    scavenger:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    curse_of_death:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    venom:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    vampire:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    sharpness:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    veinminer:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    ice_aspect:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    bane_of_arthropods:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    efficiency:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    fortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    blindness:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    replanter:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    nimble:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    lucky_miner:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    silk_touch:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    haste:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    smelter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    double_strike:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    temper:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    rage:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    decapitator:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    tunnel:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    exp_hunter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+  iron_sword:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    smite:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    knockback:
+      minLevel: 1
+      maxLevel: 2
+      chance: 0.2
+    scavenger:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    fire_aspect:
+      minLevel: 1
+      maxLevel: 2
+      chance: 0.2
+    curse_of_death:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    venom:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    vampire:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    sharpness:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    ice_aspect:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    bane_of_arthropods:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    blindness:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    nimble:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    looting:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    sweeping_edge:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    double_strike:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    temper:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    rage:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    decapitator:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    exp_hunter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+  netherite_sword:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    smite:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    knockback:
+      minLevel: 1
+      maxLevel: 2
+      chance: 0.2
+    scavenger:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    fire_aspect:
+      minLevel: 1
+      maxLevel: 2
+      chance: 0.2
+    curse_of_death:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    venom:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    vampire:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    sharpness:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    ice_aspect:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    bane_of_arthropods:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    blindness:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    nimble:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    looting:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    sweeping_edge:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    double_strike:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    temper:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    rage:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    decapitator:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    exp_hunter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+  chainmail_boots:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    thorns:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    bunny_hop:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    fire_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    feather_falling:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    elemental_protection:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    projectile_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    rebound:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    frost_walker:
+      minLevel: 1
+      maxLevel: 2
+      chance: 0.2
+    flame_walker:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soul_speed:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    sonic:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    binding_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    depth_strider:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    fire_shield:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    blast_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+  diamond_boots:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    thorns:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    bunny_hop:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    fire_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    feather_falling:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    elemental_protection:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    projectile_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    rebound:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    frost_walker:
+      minLevel: 1
+      maxLevel: 2
+      chance: 0.2
+    flame_walker:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soul_speed:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    sonic:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    binding_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    depth_strider:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    fire_shield:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    blast_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+  golden_leggings:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    thorns:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    fire_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    swift_sneak:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    elemental_protection:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    projectile_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    binding_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fire_shield:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    blast_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+  stone_shovel:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    efficiency:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    replanter:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    lucky_miner:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    silk_touch:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    telekinesis:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    haste:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    smelter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    veinminer:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    tunnel:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+  wooden_sword:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    smite:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    knockback:
+      minLevel: 1
+      maxLevel: 2
+      chance: 0.2
+    scavenger:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    fire_aspect:
+      minLevel: 1
+      maxLevel: 2
+      chance: 0.2
+    curse_of_death:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    venom:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    vampire:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    sharpness:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    ice_aspect:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    bane_of_arthropods:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    blindness:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    nimble:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    looting:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    sweeping_edge:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    double_strike:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    temper:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    rage:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    decapitator:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    exp_hunter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+  diamond_hoe:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    efficiency:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    replanter:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    lucky_miner:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    silk_touch:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    telekinesis:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    haste:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    smelter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    veinminer:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    tunnel:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+  netherite_axe:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    smite:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    telekinesis:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    scavenger:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    curse_of_death:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    venom:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    vampire:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    sharpness:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    veinminer:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    ice_aspect:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    bane_of_arthropods:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    efficiency:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    fortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    blindness:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    replanter:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    nimble:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    lucky_miner:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    silk_touch:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    haste:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    smelter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    double_strike:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    temper:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    rage:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    decapitator:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    tunnel:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    exp_hunter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+  diamond_sword:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    smite:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    knockback:
+      minLevel: 1
+      maxLevel: 2
+      chance: 0.2
+    scavenger:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    fire_aspect:
+      minLevel: 1
+      maxLevel: 2
+      chance: 0.2
+    curse_of_death:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    venom:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    vampire:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    sharpness:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    ice_aspect:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    bane_of_arthropods:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    blindness:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    nimble:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    looting:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    sweeping_edge:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    double_strike:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    temper:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    rage:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    decapitator:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    exp_hunter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+  golden_hoe:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    efficiency:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    replanter:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    lucky_miner:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    silk_touch:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    telekinesis:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    haste:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    smelter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    veinminer:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    tunnel:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+  golden_helmet:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    thorns:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    fire_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    elemental_protection:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    respiration:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    projectile_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    binding_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    aqua_affinity:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    saturation:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    aquaman:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fire_shield:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    blast_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+  leather_leggings:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    thorns:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    fire_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    swift_sneak:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    elemental_protection:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    projectile_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    binding_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fire_shield:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    blast_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+  netherite_shovel:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    efficiency:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    replanter:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    lucky_miner:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    silk_touch:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    telekinesis:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    haste:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    smelter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    veinminer:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    tunnel:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+  leather_helmet:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    thorns:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    fire_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    elemental_protection:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    respiration:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    projectile_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    binding_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    aqua_affinity:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    saturation:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    aquaman:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fire_shield:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    blast_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+  stone_axe:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    smite:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    telekinesis:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    scavenger:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    curse_of_death:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    venom:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    vampire:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    sharpness:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    veinminer:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    ice_aspect:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    bane_of_arthropods:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    efficiency:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    fortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    blindness:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    replanter:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    nimble:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    lucky_miner:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    silk_touch:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    haste:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    smelter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    double_strike:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    temper:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    rage:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    decapitator:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    tunnel:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    exp_hunter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+  shield:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+  iron_hoe:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    efficiency:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    replanter:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    lucky_miner:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    silk_touch:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    telekinesis:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    haste:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    smelter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    veinminer:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    tunnel:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+  golden_pickaxe:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    efficiency:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    replanter:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    lucky_miner:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    silk_touch:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    telekinesis:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    haste:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    smelter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    veinminer:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    tunnel:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+  leather_chestplate:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    regrowth:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    thorns:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    fire_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    elemental_protection:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    projectile_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    binding_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fire_shield:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    ice_shield:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    hardened:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    blast_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+  wooden_shovel:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    efficiency:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    replanter:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    lucky_miner:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    silk_touch:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    telekinesis:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    haste:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    smelter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    veinminer:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    tunnel:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+  bow:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    ender_bow:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    punch:
+      minLevel: 1
+      maxLevel: 2
+      chance: 0.2
+    vampiric_arrows:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    poisoned_arrows:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    hover:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    sniper:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    dragonfire_arrows:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    electrified_arrows:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    infinity:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    power:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    flame:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+  stone_sword:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    smite:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    knockback:
+      minLevel: 1
+      maxLevel: 2
+      chance: 0.2
+    scavenger:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    fire_aspect:
+      minLevel: 1
+      maxLevel: 2
+      chance: 0.2
+    curse_of_death:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    venom:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    vampire:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    sharpness:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    ice_aspect:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    bane_of_arthropods:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    blindness:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    nimble:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    looting:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    sweeping_edge:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    double_strike:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    temper:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    rage:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    decapitator:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    exp_hunter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+  iron_boots:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    thorns:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    bunny_hop:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    fire_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    feather_falling:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    elemental_protection:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    projectile_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    rebound:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    frost_walker:
+      minLevel: 1
+      maxLevel: 2
+      chance: 0.2
+    flame_walker:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soul_speed:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    sonic:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    binding_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    depth_strider:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    fire_shield:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    blast_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+  diamond_leggings:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    thorns:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    fire_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    swift_sneak:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    elemental_protection:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    projectile_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    binding_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fire_shield:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    blast_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+  diamond_helmet:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    thorns:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    fire_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    elemental_protection:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    respiration:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    projectile_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    binding_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    aqua_affinity:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    saturation:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    aquaman:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fire_shield:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    blast_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+  golden_boots:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    thorns:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    bunny_hop:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    fire_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    feather_falling:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    elemental_protection:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    projectile_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    rebound:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    frost_walker:
+      minLevel: 1
+      maxLevel: 2
+      chance: 0.2
+    flame_walker:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soul_speed:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    sonic:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    binding_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    depth_strider:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    fire_shield:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    blast_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+  iron_pickaxe:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    efficiency:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    replanter:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    lucky_miner:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    silk_touch:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    telekinesis:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    haste:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    smelter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    veinminer:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    tunnel:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+  diamond_axe:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    smite:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    telekinesis:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    scavenger:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    curse_of_death:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    venom:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    vampire:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    sharpness:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    veinminer:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    ice_aspect:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    bane_of_arthropods:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    efficiency:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    fortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    blindness:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    replanter:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    nimble:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    lucky_miner:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    silk_touch:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    haste:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    smelter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    double_strike:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    temper:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    rage:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    decapitator:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    tunnel:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    exp_hunter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+  diamond_chestplate:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    regrowth:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    thorns:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    fire_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    elemental_protection:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    projectile_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    binding_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fire_shield:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    ice_shield:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    hardened:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    blast_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+  turtle_helmet:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    thorns:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    fire_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    elemental_protection:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    respiration:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    projectile_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    binding_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    aqua_affinity:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    saturation:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    aquaman:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fire_shield:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    blast_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+  stone_pickaxe:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    efficiency:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    replanter:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    lucky_miner:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    silk_touch:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    telekinesis:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    haste:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    smelter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    veinminer:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    tunnel:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+  golden_chestplate:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    regrowth:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    thorns:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    fire_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    elemental_protection:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    projectile_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    binding_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fire_shield:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    ice_shield:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    hardened:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    blast_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+  iron_helmet:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    thorns:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    fire_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    elemental_protection:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    respiration:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    projectile_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    binding_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    aqua_affinity:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    saturation:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    aquaman:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fire_shield:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    blast_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+  netherite_pickaxe:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    efficiency:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    replanter:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    lucky_miner:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    silk_touch:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    telekinesis:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    haste:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    smelter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    veinminer:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    tunnel:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+  netherite_leggings:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    thorns:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    fire_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    swift_sneak:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    elemental_protection:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    projectile_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    binding_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fire_shield:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    blast_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+  golden_shovel:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    efficiency:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    replanter:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    lucky_miner:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    silk_touch:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    telekinesis:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    haste:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    smelter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    veinminer:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    tunnel:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+  fishing_rod:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_drowned:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    luck_of_the_sea:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    auto_reel:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    lure:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    double_catch:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    river_master:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    seasoned_angler:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+  wooden_hoe:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    efficiency:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    replanter:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    lucky_miner:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    silk_touch:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    telekinesis:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    haste:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    smelter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    veinminer:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    tunnel:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+  netherite_chestplate:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    regrowth:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    thorns:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    fire_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    elemental_protection:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    projectile_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    binding_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fire_shield:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    ice_shield:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    hardened:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    blast_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+  netherite_boots:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    thorns:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    bunny_hop:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    fire_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    feather_falling:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    elemental_protection:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    projectile_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    rebound:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    frost_walker:
+      minLevel: 1
+      maxLevel: 2
+      chance: 0.2
+    flame_walker:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soul_speed:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    sonic:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    binding_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    depth_strider:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    fire_shield:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    blast_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+  golden_axe:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    smite:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    telekinesis:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    scavenger:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    curse_of_death:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    venom:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    vampire:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    sharpness:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    veinminer:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    ice_aspect:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    bane_of_arthropods:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    efficiency:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    fortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    blindness:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    replanter:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    nimble:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    lucky_miner:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    silk_touch:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    haste:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    smelter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    double_strike:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    temper:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    rage:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    decapitator:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    tunnel:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    exp_hunter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+  trident:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    impaling:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    infernus:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    loyalty:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    channeling:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    riptide:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+  wooden_pickaxe:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    efficiency:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    replanter:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    lucky_miner:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    silk_touch:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    telekinesis:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    haste:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    smelter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    veinminer:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    tunnel:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+  diamond_pickaxe:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    efficiency:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    replanter:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    lucky_miner:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    silk_touch:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    telekinesis:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    haste:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    smelter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    veinminer:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    tunnel:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+  chainmail_leggings:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    thorns:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    fire_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    swift_sneak:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    elemental_protection:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    projectile_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    binding_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fire_shield:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    blast_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+  chainmail_chestplate:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    regrowth:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    thorns:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    fire_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    elemental_protection:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    projectile_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    binding_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fire_shield:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    ice_shield:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    hardened:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    blast_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+  iron_leggings:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    thorns:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    fire_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    swift_sneak:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    elemental_protection:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    projectile_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+    binding_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fire_shield:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    blast_protection:
+      minLevel: 1
+      maxLevel: 4
+      chance: 0.2
+  stone_hoe:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    efficiency:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    replanter:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    lucky_miner:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    silk_touch:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    telekinesis:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    haste:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    smelter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    veinminer:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    tunnel:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+  iron_shovel:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    efficiency:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    replanter:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    lucky_miner:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    silk_touch:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    telekinesis:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    haste:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    smelter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    veinminer:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    tunnel:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+  netherite_hoe:
+    curse_of_breaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    efficiency:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    curse_of_mediocrity:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    curse_of_fragility:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    fortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    restore:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    replanter:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    lucky_miner:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    silk_touch:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    mending:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    telekinesis:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    haste:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    smelter:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    soulbound:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    curse_of_misfortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    veinminer:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    tunnel:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2

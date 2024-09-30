@@ -1,0 +1,63 @@
+Command:
+  Argument:
+    Name:
+      Level: level
+      Slot: slot
+      Rarity: rarity
+  List:
+    Desc: Список пользовательских зачарований.
+    DoneOthers: <lgray>Открыть меню зачарований для <lyellow>%player_name%</lyellow>.</lgray>
+  Enchant:
+    Desc: Зачаровать предмет в определенном слоте.
+    Done:
+      Self: <lgray><lyellow>%item%</lyellow> зачарованный на <lyellow>%enchant% %level%</lyellow>!</lgray>
+      Others: <lgray><lyellow>%player_display_name%</lyellow> <lyellow>%item%</lyellow> зачарованный на <lyellow>%enchant% %level%</lyellow>!</lgray>
+    Error:
+      NoItem: <lred>Нет ни одного предмета для зачарования!</lred>
+  Disenchant:
+    Desc: Снять зачарование предмета в определённом слоте.
+    Done:
+      Self: <lgray><lyellow>%item%</lyellow> снято зачарование <lyellow>%enchant%</lyellow>!</lgray>
+      Others: <lgray><lyellow>%player_display_name%</lyellow>'s <lyellow>%item%</lyellow> снято зачарование <lyellow>%enchant%</lyellow>!</lgray>
+  Book:
+    Desc: Выдаёт книгу с выбранным зачарованием.
+    Done: <lgray>Given <lyellow>%enchant%</lyellow> enchanted book to <lyellow>%player_display_name%</lyellow>.</lgray>
+  RarityBook:
+    Desc: Выдаёт книгу с зачарованиями определенной редкости.
+    Done: <lgray>Given <lyellow>%name%</lyellow> enchanted book to <lyellow>%player_display_name%</lyellow>.</lgray>
+    Error:
+      Empty: <lgray>Не существует зачарований с <lred>%name%</lred> редкостью!</lgray>
+  GetFuel:
+    Desc: Get enchantment fuel item.
+    Done: <lgray>You got <lyellow>x%amount% %name%</lyellow>.</lgray>
+    Error:
+      NoCharges: <lgray>Enchantment <lred>%name%</lred> don't have charges.</lgray>
+Error:
+  Command:
+    Argument:
+      InvalidRarity: <lgray><lred>%value%</lred> is not a valid rarity!</lgray>
+      InvalidSlot: <lgray><lred>%value%</lred> is not a valid slot!</lgray>
+ItemCategory:
+  Helmet: Шлем
+  Chestplate: Нагрудник
+  Leggings: Поножи
+  Boots: Ботинки
+  Elytra: Элитры
+  Sword: Меч
+  Axe: Топор
+  Hoe: Мотыга
+  Pickaxe: Кирка
+  Shovel: Лопата
+  Trident: Трезубец
+  Bow: Лук
+  Crossbow: Арбалет
+  FishingRod: Удочка
+  Shield: Щит
+  Breakable: Разрушаемые
+  Armor: Броня
+  Tool: Инструменты
+  Weapon: Мечь/Топор
+  Bows: Лук/Арбалет
+  Torso: Нагрудник/Элитры
+  AllWeapon: Все оружия
+  MiningTools: Добывающие инструменты
